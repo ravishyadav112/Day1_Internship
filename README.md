@@ -1,5 +1,9 @@
 # Netflix  Movies and TV Shows  Data Analysis Project
 
+## Dataset Link -> 
+
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 ## Overview
 This project analyzes the Netflix dataset containing information about movies and TV shows available on the platform. The dataset includes details such as titles, directors, cast, countries, release years, ratings, and more. The analysis explores patterns in content, cleans the data, and prepares it for further analytical insights.
 
@@ -51,5 +55,4 @@ The dataset contains 8,807 records with 12 original columns:
 - Python for data manipulation and analysis
 - Libraries: pandas, numpy
 - Data cleaning, transformation, and exploratory data analysis techniques
-
 
